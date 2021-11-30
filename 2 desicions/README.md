@@ -1,6 +1,6 @@
 ## Decisions
 
-*From September 1, 2021*
+*From 1 September 2021*
 
 This algorithm uses logic in MATLAB to solve for the volume of a liquid from the height in a tank that has a radius that increases linearly by height after a certain level in the tank *(image1)*. This code highlights the functions `if`, `else`, and`fprintf` and operaters such as `<=` `>` `>=` etc. 
 
