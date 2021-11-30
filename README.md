@@ -1,5 +1,5 @@
 # Mech105-Algorithms
-***This repository contains all algorithms created for Mech-105, Fall 2021.***
+***This repository contains all algorithms created for Mech-105, Fall 2021, with MATLAB using different numerical methods.***
 
  Algorithm Title              | Description
 -------------------------- | ----------
