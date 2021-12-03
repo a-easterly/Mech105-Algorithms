@@ -9,4 +9,5 @@ The function introduces new functions/commands `nargin`, `varargin`, `isempty`, 
 This function is helpful when the equation being used has a difficult root to find by hand. An example of this would be the following equation *(figure 1)*, where the user is trhying to find the angle needed to move the box with a certain amount of force. This can be found by subtracting the certain force frome both sides so that when the angle makes the original equation equal to the force, the new equation will equal zero, aka the root of the function. It is difficult to find the angle in this situation, so an algorithm would be useful.
 
 ![Untitled drawing (6)](https://user-images.githubusercontent.com/95257867/144670016-8ec99dad-0b32-492e-8c38-f14e03d5319f.jpg)
+
 *figure 1*
