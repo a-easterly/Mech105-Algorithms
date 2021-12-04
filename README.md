@@ -13,7 +13,7 @@ THe following four folders contain the code for the alrgorithms made:
 **Linear Algebra** | Solves linear factorization problems with partial pivoting and lower/upper factorization
 **Simpson's 1/3** | Solves integrals numerically using the Simpcon's 1/3 rule and trapezoidal rule if needed
 
-This repository also contains 2 codes that are not technically algorithms, but were also used during Mech-105. The two codes may be helpful examples of MATLAB built-in function/command reviews such as decisions and plottingThese are the two files:
+This repository also contains 2 codes that are not technically algorithms, but were also used during Mech-105(files 1 and 2). The two codes may be helpful examples of MATLAB built-in function/command reviews such as decisions and plotting. These are the two files:
 
 Other Codes             | Description
 -------------------------- | ----------
